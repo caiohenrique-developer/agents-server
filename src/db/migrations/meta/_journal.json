@@ -15,6 +15,13 @@
       "when": 1752252222294,
       "tag": "0001_fluffy_rocket_racer",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752446967024,
+      "tag": "0002_sour_shooting_star",
+      "breakpoints": true
     }
   ]
 }
